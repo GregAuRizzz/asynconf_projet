@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+    background: linear-gradient(0deg, rgba(182,241,187,1) 39%, rgba(115,237,126,1) 100%);
+    font-family: 'Poppins', sans-serif;
+    margin: 20px;
+}
+
+#title {
+    text-align: center;
+    font-size: 90px;
+}
+
+.button-container,
+.valeur {
+    text-align: center;
+}
+
+.bar {
+    width: 300px;
+    height: 20px;
+    background-color: #ccc;
+    position: relative;
+}
+
+.point {
+    width: 10px;
+    height: 10px;
+    background-color: #000;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.dropdown-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.ecological-dropdown {
+    border: none;
+    padding: 9px;
+    font-size: 26px;
+    margin: 5px;
+    background-color: transparent;
+    border-radius: 8px;
+    color: #c73e4c;
+    z-index: 1;
+}
+
+h2 {
+    font-weight: bold;
+    position: relative;
+}
+
+.ecological-dropdown option {
+    background-color: #D8F3DC;
+    color: #2A9D8F;
+    font-size: 26px;
+    border-radius: 8px;
+    z-index: auto;
+}
+
+#taux {
+    text-align: center;
+}

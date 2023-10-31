@@ -1,0 +1,139 @@
+{
+  "voitures": [
+    {
+      "Nom": "Citadine",
+      "PoidsMoyen_kg": 1300,
+      "NoteEcologique": 8
+    },
+    {
+      "Nom": "Cabriolet",
+      "PoidsMoyen_kg": 2000,
+      "NoteEcologique": 6
+    },
+    {
+      "Nom": "Berline",
+      "PoidsMoyen_kg": 1800,
+      "NoteEcologique": 6.5
+    },
+    {
+      "Nom": "SUV/4x4",
+      "PoidsMoyen_kg": 2500,
+      "NoteEcologique": 4
+    }
+  ],
+
+  "annees": [
+    {
+      "Nom": "1960-1970",
+      "NoteEcologique": 1
+    },
+    {
+      "Nom": "1970-1980",
+      "NoteEcologique": 2
+    },
+    {
+      "Nom": "1980-1990",
+      "NoteEcologique": 3
+    },
+    {
+      "Nom": "1990-2000",
+      "NoteEcologique": 4
+    },
+    {
+      "Nom": "2000-2010",
+      "NoteEcologique": 5
+    },
+    {
+      "Nom": "2010",
+      "NoteEcologique": 7
+    }
+  ],
+
+  "energies": [
+    {
+      "Nom": "Essence",
+      "NoteEcologique": 5
+    },
+    {
+      "Nom": "Electrique",
+      "NoteEcologique": 9
+    },
+    {
+      "Nom": "Gaz",
+      "NoteEcologique": 6
+    },
+    {
+      "Nom": "Diesel",
+      "NoteEcologique": 4
+    },
+    {
+      "Nom": "Hybride",
+      "NoteEcologique": 7
+    }
+  ],
+  
+  "kilometrages": [
+    {
+      "Nom": "5-10K/km",
+      "NoteEcologique": 9
+    },
+    {
+      "Nom": "10-15K/km",
+      "NoteEcologique": 7
+    },
+    {
+      "Nom": "15-20K/km",
+      "NoteEcologique": 5
+    },
+    {
+      "Nom": "20-25K/km",
+      "NoteEcologique": 3
+    },
+    {
+      "Nom": "25-30K/km",
+      "NoteEcologique": 1
+    }
+  ],
+
+  "taux": [
+    {
+      "Nom": "0-10",
+      "taux": 3
+    },
+    {
+      "Nom": "11-15",
+      "taux": 2.74
+    },
+    {
+      "Nom": "16-25",
+      "taux": 2.52
+    },
+    {
+      "Nom": "20-25K/km",
+      "taux": 2.10
+    },
+    {
+      "Nom": "25-30K/km",
+      "taux": 1.85
+    }
+  ],
+  "passagers": [
+    {
+      "Nom": "1",
+      "taux": 0.11
+    },
+    {
+      "Nom": "2",
+      "taux": -0.17
+    },
+    {
+      "Nom": "3",
+      "taux": -0.29
+    },
+    {
+      "Nom": "4",
+      "taux": -0.53
+    }
+  ]
+}
+    
